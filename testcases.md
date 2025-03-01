@@ -19,7 +19,7 @@
 
 ---
 
-## 📜 Notes:
+## Notes:
 - **Test Environment:** Google Chrome, Windows 11  
 - **Test Execution Date:** 2025-02-28  
 - **Any Failed Test Cases?** No  
