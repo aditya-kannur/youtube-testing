@@ -1,14 +1,14 @@
-# 🎯 YouTube Video Playback & Comments - Test Cases  
+# YouTube Video Playback & Comments - Test Cases  
 
-## 📌 Project: YouTube Manual Testing  
-✅ **Website:** [YouTube](https://www.youtube.com/)  
-✅ **Tested By:** Aditya Kannur
-✅ **Test Execution Date:** 2025-02-28 
-✅ **Tools Used:** Manual Testing, Google Chrome  
+## Project: YouTube Manual Testing  
+**Website:** [YouTube](https://www.youtube.com/)  
+**Tested By:** Aditya Kannur  
+**Test Execution Date:** 2025-02-28   
+**Tools Used:** Manual Testing, Google Chrome    
 
 ---
 
-## 📊 Test Cases  
+## Test Cases  
 
 | **Case ID** | **Test Scenario** | **Preconditions** | **Test Steps** | **Expected Result** |
 |-------------|------------------|-------------------|----------------|---------------------|
