@@ -13,10 +13,10 @@ This project contains **manual test cases and execution results** for testing **
 ---
 
 ## Screenshots  
-![Search Passed](screenshots/search_test_passed.png)  
-![Playback Passed](screenshots/playback_test_passed.png)  
-![Like Passed](screenshots/like_test_passed.png)  
-[Comment Test Passed](screenshots/comment_test_passed.png)  
+![Search Passed](screenshots/search_test_passed.pdf)  
+![Playback Passed](screenshots/playback_test_passed.pdf)  
+![Like Passed](screenshots/like_test_passed.pdf)  
+[Comment Test Passed](screenshots/comment_test_passed.pdf)  
 
 
 ---
