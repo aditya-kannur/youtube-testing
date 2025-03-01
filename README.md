@@ -16,6 +16,8 @@ This project contains **manual test cases and execution results** for testing **
 ![Search Passed](screenshots/search_test_passed.png)  
 ![Playback Passed](screenshots/playback_test_passed.png)  
 ![Like Passed](screenshots/like_test_passed.png)  
+[Comment Test Passed](screenshots/comment_test_passed.png)  
+
 
 ---
 
